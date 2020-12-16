@@ -53,8 +53,8 @@ ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[blue]%}› %{$fg[yellow]%}✗%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%}›"
 
-ZSH_THEME_VIRTUAL_ENV_PROMPT_PREFIX="ᵥₑₙᵥ:‹%{$fg[red]%}"
-ZSH_THEME_VIRTUAL_ENV_PROMPT_SUFFIX="%{$fg[blue]%}› "
+ZSH_THEME_VIRTUAL_ENV_PROMPT_PREFIX="ᵥₑₙᵥ%{$fg[red]%}"
+ZSH_THEME_VIRTUAL_ENV_PROMPT_SUFFIX="%{$fg[blue]%} "
 
 ZSH_THEME_PYENV_PROMPT_PREFIX="py:‹%{$fg[red]%}"
 ZSH_THEME_PYENV_PROMPT_SUFFIX="%{$fg[blue]%}› "
